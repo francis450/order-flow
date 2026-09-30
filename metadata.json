@@ -1,0 +1,6 @@
+{
+  "name": "OrderFlow Kenya — WhatsApp Order & Credit Automation",
+  "description": "Enterprise WhatsApp-to-ERP order parser and automated credit control gatekeeper for FMCG and pharmaceutical distributors in Nairobi Industrial Area.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
